@@ -11,4 +11,3 @@ public class Question2
     System.out.println(bmi);
   }
 }
-
